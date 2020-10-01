@@ -2,4 +2,4 @@
 
 ### Préambule au P3 OCR
 
-Développer un jeu en python en utilisant pygame.
+Développer un jeu en python et en utilisant pygame.
